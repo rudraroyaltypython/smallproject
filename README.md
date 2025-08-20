@@ -1,0 +1,2 @@
+# smallproject
+my project basic
